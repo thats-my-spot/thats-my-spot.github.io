@@ -1,5 +1,8 @@
 title: That's My Spot!
+description: Parking Made Easy
 url: "https://thats-my-spot.github.io"
 baseurl: ""
-
 theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  reposityory_url: https://github.com/thats-my-spot/thats-my-spot
