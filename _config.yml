@@ -1,3 +1,5 @@
 title: That's My Spot!
 url: "https://thats-my-spot.github.io"
+baseurl: ""
+
 theme: jekyll-theme-slate
