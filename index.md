@@ -1,5 +1,7 @@
 # That's My Spot!
 
+## <a href="https://docs.google.com/document/d/1dI2cp2C39PllNA3GIXgPYNJfcSU4MNTPIEO2m2xUdVg/edit?usp=sharing">Team Contract</a>
+
 ## Table of contents
 
 * [Overview](#overview)
