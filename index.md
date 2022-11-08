@@ -14,28 +14,28 @@ This section provides a walkthrough of the That's My Spot! user interface and it
 
 ### Landing Page
 
-STC
+To be added
 
 ### Sign in
 
-STC
+To be added
 
 ### Admin
 
-STC
+To be added
 
 ### Availability
 
-STC
+To be added
 
 ### Parking pass holders
 
-STC
+To be added
 
 ### Guest
 
-STC
+To be added
 
 ### Payment
 
-STC
+To be added
