@@ -20,7 +20,16 @@ To be added
 
 ### Sign in
 
-<img src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/register.png?token=GHSAT0AAAAAAB25FCKOEF7IONXTPSNPRAHIY3MVZIA">
+Click on the "Login" link, then click on the Sign In link to bring up the Sign In page, allowing you to log in with your UH email:
+
+<img width=500 src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/login.png?token=GHSAT0AAAAAAB25FCKP3VPN5HSID4EPX4J4Y3MV4JQ">
+
+If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
+
+<img width=500 src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/register.png?token=GHSAT0AAAAAAB25FCKOEF7IONXTPSNPRAHIY3MVZIA">
+
+New users can register accounts be adding their UH email, creating a password, and checking off whether they have a parking pass.
+
 ### Admin
 
 To be added
