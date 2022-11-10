@@ -20,8 +20,7 @@ To be added
 
 ### Sign in
 
-To be added
-
+<img src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/register.png?token=GHSAT0AAAAAAB25FCKOEF7IONXTPSNPRAHIY3MVZIA">
 ### Admin
 
 To be added
