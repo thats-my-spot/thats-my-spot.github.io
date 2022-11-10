@@ -33,11 +33,11 @@ New users can register accounts be adding their UH email, creating a password, a
 
 ### Admin
 
-<img width=500 src="https://discord.com/channels/@me/1039313935775576164">
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040170234285404231/image.png">
 
 ### Availability
 
-<img width=500 src="https://discord.com/channels/@me/1039313935775576164">
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040171147750277200/image.png">
 
 ### Parking pass holders
 
