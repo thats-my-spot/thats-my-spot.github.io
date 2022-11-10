@@ -16,36 +16,37 @@ This section provides a walkthrough of the That's My Spot! user interface and it
 
 ### Landing Page
 
-To be added
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040170301142614107/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040170353021964349/image.png">
 
 ### Sign in
 
 Click on the "Login" link, then click on the Sign In link to bring up the Sign In page, allowing you to log in with your UH email:
 
-<img width=500 src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/login.png?token=GHSAT0AAAAAAB25FCKP3VPN5HSID4EPX4J4Y3MV4JQ">
+<img width=500 src="../images/register.png">
 
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
 
-<img width=500 src="https://raw.githubusercontent.com/thats-my-spot/source/issue-07/images/register.png?token=GHSAT0AAAAAAB25FCKOEF7IONXTPSNPRAHIY3MVZIA">
+<img width=500 src="../images/register.png">
 
 New users can register accounts be adding their UH email, creating a password, and checking off whether they have a parking pass.
 
 ### Admin
 
-To be added
+<img width=500 src="https://discord.com/channels/@me/1039313935775576164">
 
 ### Availability
 
-To be added
+<img width=500 src="https://discord.com/channels/@me/1039313935775576164">
 
 ### Parking pass holders
 
-To be added
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040171147750277200/image.png">
 
 ### Guest
 
-To be added
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040187461940285500/image.png">
 
 ### Payment
 
-To be added
+<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040184918883454986/image.png">
