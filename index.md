@@ -31,11 +31,11 @@ The landing page is the first page users see upon visiting the site. The page pr
 
 Click on the "Login" link, then click on the Sign In link to bring up the Sign In page, allowing you to log in with your UH email:
 
-<img width=500 src="../images/login.png">
+<img width=500 src="../images/tms login.png">
 
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
 
-<img width=500 src="../images/register.png">
+<img width=500 src="../images/tms register.png">
 
 New users can register accounts be adding their UH email, creating a password, and checking whether they have a parking pass.
 
