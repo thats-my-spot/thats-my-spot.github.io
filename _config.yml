@@ -5,4 +5,4 @@ baseurl: ""
 theme: jekyll-theme-slate
 github:
   is_project_page: true
-  reposityory_url: https://github.com/thats-my-spot
+  repository_url: https://github.com/thats-my-spot
