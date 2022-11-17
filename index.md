@@ -15,7 +15,7 @@ That's My Spot! is an application that generates a parking stall number for stud
 
 ## Deployment
 
-The application was deployed via a Digital Ocean virtual machine. The running site can be accessed <a href="http://134.209.193.152/" target="_blank">here</a>.
+The application was deployed via a Digital Ocean virtual machine. The running site can be accessed <a href="http://134.209.193.152/">here</a>.
 
 ## User Guide
 
