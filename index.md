@@ -49,7 +49,7 @@ The admin page is only presented to those with admin access. The page displays t
 
 To reserve a spot, select one of the available spots.
 
-<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040167307365855293/image.png">
+<img width=500 src="../images/availdraft.png">
 
 ### Parking pass holders
 
