@@ -79,3 +79,7 @@ The goals of milestone 1 were to create mockup sketches of the site's pages and 
 ### <a href="https://github.com/orgs/thats-my-spot/projects/2/views/1">Milestone 2</a>
 
 The goals of milestone 2 were to continue development of the backend processes and the actual site pages based on the sketches, add a domain name for the website, and employ HTTPS.
+
+### <a href="https://github.com/orgs/thats-my-spot/projects/3">Milestone 3</a>
+
+The goals of milestone 3 is to add the finishing touches on pages and to try and implement user feedback from a population of the potential users, and to clean up leftover things from the template.
