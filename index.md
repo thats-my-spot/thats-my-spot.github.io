@@ -43,13 +43,13 @@ New users can register accounts be adding their UH email, creating a password, a
 
 The admin page is only presented to those with admin access. The page displays taken parking spaces and the owner of the space, allowing admins to delete any reserved spots (e.g., in the event of one user owning multiple spots).
 
-<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040170234285404231/image.png">
+<img width=500 src="../images/admin.png">
 
 ### Availability
 
 To reserve a spot, select one of the available spots.
 
-<img width=500 src="../images/availdraft.png">
+<img width=500 src="../images/availability.png">
 
 ### Parking pass holders
 
@@ -59,15 +59,15 @@ If you have a parking pass, you are able to specify a level and side you wish to
 
 ### Guest
 
-If you do not have a UH email, you can continue as a guest and generate a random stall from the remaining stalls.
+Guests and users without a parking pass select a stall and proceed to the payment page to purchase their stall.
 
-<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040187461940285500/image.png">
+<img width=500 src="../images/reserve-pay.png">
 
-### Payment
+## Your stall
 
-AFter selecting a spot, guests and users without a parking pass proceed to the payment page to purchase their stall.
+After purchasing a stall, users are able to view the stall they purchased.
 
-<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040184918883454986/image.png">
+<img width=500 src="../images/your-stall.png">
 
 ## Development History
 
