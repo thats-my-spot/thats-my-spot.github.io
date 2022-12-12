@@ -8,7 +8,7 @@
 * [Deployment](#deployment)
 * [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
-* [Developer's Guide](#developer's-guide)
+* [Developers Guide](#developers-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
 * [Meet the Team](#meet-the-team) 
@@ -79,7 +79,7 @@ After purchasing a stall, users are able to view the stall they purchased.
 
 <img width=500 src="../images/your-stall.png">
 
-## Developer's Guide
+## Developers Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
