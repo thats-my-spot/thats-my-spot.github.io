@@ -73,7 +73,7 @@ Guests and users without a parking pass select a stall and proceed to the paymen
 
 <img width=500 src="https://media.discordapp.net/attachments/382434447070330880/1051731193286099016/image.png?width=1374&height=779">
 
-## Your stall
+### Your stall
 
 After purchasing a stall, users are able to view the stall they purchased.
 
@@ -83,7 +83,7 @@ After purchasing a stall, users are able to view the stall they purchased.
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
-## Installation
+### Installation
 
 First, install Meteor.
 
@@ -101,11 +101,11 @@ $ meteor npm run start
 ```
 If all goes well, the application will appear at http://localhost:3000.
 
-## Application Design
+### Application Design
 
 That's My Spot is based upon meteor-application-template-react and meteor-example-form-react. Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in That's My Spot.
 
-## Initialization
+### Initialization
 
 The config directory is intended to hold settings files. The repository contains one file: config/settings.development.json.
 
@@ -115,7 +115,7 @@ The settings.development.json file contains a field called “loadAssetsFile”.
 
 ## Quality Assurance
 
-## ESLint
+### ESLint
 
 That's My Spot includes a .eslintrc file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
@@ -138,7 +138,7 @@ ESLint should run without generating any errors.
 
 It’s significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
 
-## End to End Testing
+### End to End Testing
 That's My Spot uses TestCafe to provide automated end-to-end testing.
 
 The That's My Spot end-to-end test code employs the page object model design pattern. In the That's My Spot tests/ directory, the file tests.testcafe.js contains the TestCafe test definitions. The remaining files in the directory contain “page object models” for the various pages in the system (i.e. Home, Landing, Admin, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
