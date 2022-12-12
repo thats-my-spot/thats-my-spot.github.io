@@ -8,7 +8,7 @@
 * [Deployment](#deployment)
 * [Community Feedback](#community-feedback)
 * [User Guide](#user-guide)
-* [Developer Guide](#developer-guide)
+* [Developer's Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
 * [Meet the Team](#meet-the-team) 
