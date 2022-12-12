@@ -49,19 +49,13 @@ The admin page is only presented to those with admin access. The page displays t
 
 To reserve a spot, select one of the available spots.
 
-<img width=500 src="../images/availability.png">
-
-### Parking pass holders
-
-If you have a parking pass, you are able to specify a level and side you wish to park so that stalls with your preferences are prioritized.
-
-<img width=500 src="https://cdn.discordapp.com/attachments/1039313935775576164/1040171147750277200/image.png">
+<img width=500 src="https://cdn.discordapp.com/attachments/382434447070330880/1051731687358345266/image.png">
 
 ### Guest
 
 Guests and users without a parking pass select a stall and proceed to the payment page to purchase their stall.
 
-<img width=500 src="../images/reserve-pay.png">
+<img width=500 src="https://media.discordapp.net/attachments/382434447070330880/1051731193286099016/image.png?width=1374&height=779">
 
 ## Your stall
 
@@ -83,3 +77,5 @@ The goals of milestone 2 were to continue development of the backend processes a
 ### <a href="https://github.com/orgs/thats-my-spot/projects/3">Milestone 3</a>
 
 The goals of milestone 3 is to add the finishing touches on pages and to try and implement user feedback from a population of the potential users, and to clean up leftover things from the template.
+
+
